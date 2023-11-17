@@ -15,13 +15,27 @@ Asegúrate de tener instaladas las siguientes bibliotecas en tu entorno de Pytho
 Puedes instalar estas bibliotecas con los siguientes comandos en tu terminal:
 
 ```bash
-pip install pandas scikit-learn matplotlib
+pip install pandas scikit-learn matplotlib openpyxl
 ```
 
-Y ejecutar
+
+y ejecutar (Intercept, Coeficientes, Predicción)
 
 ```bash
-python datos.py
+python index.py 
+
+```
+y ejecutar (Gráfica 2D )
+
+```bash
+python grafica.py 
+
+```
+y ejecutar (Gráfica 3D )
+
+```bash
+python grafica3d.py 
+
 ```
 
 
